@@ -76,8 +76,7 @@ api key is created
 
 
 ### 5. Add documents and build the index
-
-Place the documents you want to query in the input folder expected by `ingest.py`.
+ to query in the input folder expected by `ingest.py`.
 
 Run the ingestion script:
 
