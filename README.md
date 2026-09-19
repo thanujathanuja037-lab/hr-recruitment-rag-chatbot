@@ -51,7 +51,7 @@ The ChromaDB database is generated locally during ingestion and is not intended 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/thanujathanuja037-lab/hr-recruitment-rag-chatbot
 cd hr-recruitment-rag-chatbot
 ```
 
